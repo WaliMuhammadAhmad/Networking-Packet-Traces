@@ -1,6 +1,6 @@
 # Networking Packet Traces Repository
 
-![Wireshark Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wireshark_Logo.svg/1280px-Wireshark_Logo.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wireshark_Logo.svg/1280px-Wireshark_Logo.svg.png" alt="wireshark-banner">
 
 Welcome to the Networking Packet Traces Repository! This collection of Wireshark packet traces is a valuable resource for students and networking enthusiasts seeking to understand network protocols, troubleshoot issues, and deepen their knowledge of computer networking.
 
