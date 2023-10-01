@@ -1,21 +1,23 @@
 # Networking Packet Traces Repository
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wireshark_Logo.svg/1280px-Wireshark_Logo.svg.png" alt="wireshark-banner">
+<img src="https://hlassets.paessler.com/common/files/preview/packet-sniffing.png" alt="Packet Sniffing">
 
-<table>
-  <tr>
-    <td>Welcome to the Networking Packet Traces Repository! This collection of Wireshark packet traces is a valuable resource for students and networking enthusiasts seeking to understand network protocols, troubleshoot issues, and deepen their knowledge of computer networking.</td>
-    <td><img src"https://www.sobavigor.co.za/wp-content/uploads/2016/10/Flowmon-Solution-Monitoring.png" alt="Network Packet Sniffing"></td>
-  </tr>
-</table>
+  Welcome to the Networking Packet Traces Repository! This collection of Wireshark packet traces is a valuable resource for students and networking enthusiasts seeking to understand network protocols, troubleshoot issues, and deepen their knowledge of computer networking.
 
 ## 📂 What's Inside
 
-This repository contains a wide variety of Wireshark packet traces captured during different scenarios, including:
+This repository contains a wide variety of captured packet traces during different scenarios, including:
 
-- **Lab Exercises:** Packet captures from in-class exercises to help you practice and reinforce networking concepts.
+- **Computer Network Book** Most of the packets are captured from the exercises of the Book "Computer Networking - A Top-Down Approach, 8th ed., J.F. Kurose and K.W. Ross"
+- **Lab Exercises:** Packet captures from in-class activities and are also similar to the Book exercises.
 - **Real-World Scenarios:** Packet traces from real network environments, providing insights into actual network traffic.
 - **Common Protocols:** Examples illustrating common protocols like HTTP, TCP/IP, DNS, and more.
+
+## Tools
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wireshark_Logo.svg/1280px-Wireshark_Logo.svg.png" alt="wireshark-banner">
+
+As you have seen in the banner above, this repository has packets captured by Wireshark 
 
 ## 🚀 Getting Started
 
