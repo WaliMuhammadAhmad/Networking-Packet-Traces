@@ -42,6 +42,6 @@ We welcome contributions from fellow students, networking professionals, and ent
 
 ## 📧 Contact
 
-Have questions, suggestions, or need assistance with packet analysis? Feel free to reach out to us at [wali.muhammad.ahmad@gmail.com].
+Have questions, or suggestions for packet trace and analysis? Feel free to reach out to us at [wali.muhammad.ahmad@gmail.com].
 
 Happy networking and analyzing!
